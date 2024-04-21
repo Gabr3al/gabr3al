@@ -1,5 +1,5 @@
 <h2 align="left">Gabr3al | DE</h2>
-<p>Mainly MERN (Full) Stack Developer</p>
+<p>MERN (Full) Stack Developer</p>
 
 ###
 
