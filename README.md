@@ -1,5 +1,5 @@
 <h2 align="left">Gabr3al | DE</h2>
-<p>Fullstack Developer</p>
+<p>Fullstack & AI Dev</p>
 
 ###
 
